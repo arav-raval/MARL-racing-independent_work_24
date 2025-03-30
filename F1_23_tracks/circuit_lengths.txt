@@ -1,0 +1,21 @@
+Albert Park Circuit	Melbourne, Australia	5.278 km
+Autódromo Hermanos Rodríguez	Mexico City, Mexico	4.304 km
+Autodromo Nazionale Monza	Monza, Italy	5.793 km
+Bahrain International Circuit	Sakhir, Bahrain	5.412 km
+Baku City Circuit	Baku, Azerbaijan	6.003 km
+Circuit de Barcelona-Catalunya	Montmeló, Spain	4.675 km
+Circuit de Monaco	Monte Carlo, Monaco	3.337 km
+Circuit de Spa-Francorchamps	Stavelot, Belgium	7.004 km
+Circuit Gilles-Villeneuve	Montreal, Canada	4.361 km
+Circuit of The Americas	Austin, USA	5.513 km
+Circuit Zandvoort	Zandvoort, Netherlands	4.259 km
+Hungaroring	Mogyoród, Hungary	4.381 km
+Jeddah Corniche Circuit	Jeddah, Saudi Arabia	6.174 km
+Las Vegas Strip Circuit	Las Vegas, USA	6.201 km
+Lusail International Circuit	Lusail, Qatar	5.419 km
+Marina Bay Street Circuit	Singapore	5.063 km
+Miami International Autodrome	Miami, USA	5.412 km
+Red Bull Ring	Spielberg, Austria	4.318 km
+Silverstone Circuit	Silverstone, UK	5.891 km
+Suzuka International Racing Course	Suzuka, Japan	5.807 km
+Yas Marina Circuit	Abu Dhabi, UAE	5.554 km
